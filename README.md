@@ -1,4 +1,4 @@
-# TBSA-Calculator
+# TBSA-Estimator
 ## Overview
 This repository contains a deep learning model designed to accurately calculate burn wounds' Total Body Surface Area (TBSA). The model utilizes deep learning techniques to segment burn wounds from images and subsequently converts these segments into a percentage of TBSA based on pixel count.
 
